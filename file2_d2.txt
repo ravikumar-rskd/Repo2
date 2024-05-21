@@ -1,0 +1,2 @@
+created file2 in day2_git folder
+To check whether newly created branch d2_v1 update to repo2 by push command or not.
